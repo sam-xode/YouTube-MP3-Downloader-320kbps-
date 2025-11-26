@@ -2,7 +2,7 @@
 
 Welcome to the **LOCAL YouTube MP3 Downloader 320kbps** 
 
-Made with ❤️ by ''**<SamXode/>**.''
+Made with ❤️ by '**<SamXode/>**.'
 
 ---
 
