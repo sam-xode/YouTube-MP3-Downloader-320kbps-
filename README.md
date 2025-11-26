@@ -16,7 +16,7 @@ Made with ❤️ by `<SamXode/>`
 * ✔️ Supports single & batch downloads
 * ✔️ Smart file duplicate checker
 * ✔️ Full **cookies.txt** support (for age-restricted or premium videos)
-* ✔️ Terminal aesthetic: hacker vibes only 😎
+
 
 ---
 
