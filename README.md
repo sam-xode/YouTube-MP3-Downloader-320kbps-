@@ -1,8 +1,11 @@
 # 🎧 LOCAL YouTube MP3 Downloader (320kbps) 
 
+![Version](https://img.shields.io/badge/version-1.0-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 Welcome to the **LOCAL YouTube MP3 Downloader 320kbps** 
 
-Made with ❤️ by `**<SamXode/>**.`
+Made with ❤️ by `<SamXode/>`
 
 ---
 
@@ -110,7 +113,7 @@ The script will process them one by one.
 
 ## 🤝 Credits
 
-Created by ''**<SamXode/>**'', designed to make your workflow smooth.
+Created by `<SamXode/>`, designed to make your workflow smooth.
 
 If you like this repo, smash that ⭐ star button on GitHub — it genuinely helps!
 
@@ -121,3 +124,14 @@ If you like this repo, smash that ⭐ star button on GitHub — it genuinely hel
 This tool is **free**, **clean**, and **open-source**. If you get errors, it’s almost always because your cookies expired — just re-export them.
 
 Happy downloading! 🎶🔥
+
+
+## 👤 Join Our Telegram Group!
+Join our Telegram group for more bot scripts and discussions:
+➡️ [Join Telegram Group](https://t.me/sam_xode)
+
+## 💌 Contact
+For questions or contributions, reach out via:
+- **GitHub**: [sam-xode](https://github.com/sam-xode)
+- **Twitter**: [@Sam_xode](https://twitter.com/Sam_xode)
+- **Telegram**: [sam_xode](https://t.me/sam_xode)
